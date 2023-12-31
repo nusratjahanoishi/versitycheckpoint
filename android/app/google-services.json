@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "606912058626",
+    "project_id": "lifeleaf-checkpoint",
+    "storage_bucket": "lifeleaf-checkpoint.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:606912058626:android:059cb81d7873da2b8ede1b",
+        "android_client_info": {
+          "package_name": "com.codeforany.fitness"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB8sKLhZuN4gTN2PYw8HbZ84PHFnGYKzJo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
